@@ -1,0 +1,36 @@
+@import "../variable-overrides";
+
+.sidebar-left {
+  padding-left: 0;
+  .header {
+    background-color: $color-white;
+    padding: 10px;
+    img {
+      border-radius: 50%;
+      width: 150px;
+    }
+  }
+  .navigation {
+    list-style: none;
+    padding: 0;
+    li {
+      display: block;
+      a {
+        font-size: 20px;
+        font-family: $font-family-roboto;
+        padding: 20px;
+        background-color: $color-blue;
+        color: $color-white;
+        border: 1px solid $border-color;
+        display: block;
+        text-decoration: none;
+        text-transform: uppercase;
+
+        &:hover,&:focus{
+          background-color: lighten($color-blue,15.6%);
+        }
+
+      }
+    }
+  }
+}

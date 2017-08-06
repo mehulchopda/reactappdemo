@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../../saas/component/header.css",
+	"sources": [
+		"../../saas/component/header.scss"
+	],
+	"sourcesContent": [
+		""
+	],
+	"mappings": "",
+	"names": []
+}

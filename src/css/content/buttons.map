@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../../saas/content/buttons.css",
+	"sources": [
+		"../../saas/content/buttons.scss"
+	],
+	"sourcesContent": [
+		".btn{\r\n  padding: 20px;\r\n}"
+	],
+	"mappings": ";AAAA,AAAA,IAAI,CAAA;EACF,OAAO,EAAE,IAAK;CACf",
+	"names": []
+}
